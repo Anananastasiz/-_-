@@ -4,7 +4,6 @@ mkdir floors
 cd floors
 mkdir 1_floor
 mkdir 2_floor
-ls -l
 cd 1_floor
 mkdir holl
 mkdir living_room
@@ -27,7 +26,6 @@ cd kitchen
 mkdir fridge
 cd fridge
 touch list_products
-ls -l
 vim list_products
 nano list_products
 cd ..
@@ -40,7 +38,6 @@ mkdir mom
 mkdir papa
 mkdir son
 mkdir grandmother
-ls
 sudo apt install tree
 chmod 777 grandmother
 chmod 777 mom
